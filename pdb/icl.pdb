@@ -1,0 +1,6 @@
+REMARK exp. I-Cl bond length = 2.303 A
+HETATM    1  I           1      -1.564   0.245   0.000
+HETATM    2 CL           2       0.736   0.357   0.000
+CONECT    1    2
+CONECT    2    1
+END

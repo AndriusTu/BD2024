@@ -1,0 +1,9 @@
+HETATM    1  O           1      -0.237  -0.080   0.000
+HETATM    2  C           2      -0.237   1.147  -0.000
+HETATM    3  H           3       0.702   1.739  -0.000
+HETATM    4  H           4      -1.176   1.739   0.000
+CONECT    1    2
+CONECT    2    1    3    4
+CONECT    3    2
+CONECT    4    2
+END

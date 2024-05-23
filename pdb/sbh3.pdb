@@ -1,0 +1,11 @@
+REMARK exp. Sb-H bond length = 1.707 A
+REMARK exp. HSbH bond angle = 91.3
+HETATM    1  H           1      -0.434  -1.620   0.033
+HETATM    2 SB           2      -0.221   0.058  -0.202
+HETATM    3  H           3      -1.884   0.263  -0.529
+HETATM    4  H           4       0.115  -0.178  -1.859
+CONECT    1    2
+CONECT    2    1    3    4
+CONECT    3    2
+CONECT    4    2
+END

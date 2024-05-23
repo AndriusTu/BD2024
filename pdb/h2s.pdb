@@ -1,0 +1,9 @@
+REMARK exp. S-H bond length = 1.35 A
+REMARK exp. HSH bond angle = 92
+HETATM    1  S           1      -0.327   0.125   0.000
+HETATM    2  H           2      -0.081   1.453   0.000
+HETATM    3  H           3       0.991  -0.167   0.000
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+END

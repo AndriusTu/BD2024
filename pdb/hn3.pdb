@@ -1,0 +1,13 @@
+REMARK exp. N-N bond length (terminal) = 1.13 A
+REMARK exp. N-N bond length = 1.24 A
+REMARK exp. N-H bond length = 0.98 A
+REMARK exp. HNN bond angle = 114
+HETATM    1  N           1       0.168  -0.720   0.000
+HETATM    2  N           2       0.118   0.409   0.000
+HETATM    3  N           3       0.064   1.648   0.000
+HETATM    4  H           4       0.940   2.085   0.000
+CONECT    1    2
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3
+END

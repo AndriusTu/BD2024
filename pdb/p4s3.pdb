@@ -1,0 +1,17 @@
+REMARK exp. P-P bond length = 2.235 A
+REMARK exp. P-S bond length = 2.090 A
+HETATM    1  P           1      -0.699  -0.869  -1.190
+HETATM    2  P           2       1.231   0.257  -1.175
+HETATM    3  P           3      -0.710   1.366  -1.189
+HETATM    4  S           4      -0.927  -1.350   0.831
+HETATM    5  S           5       1.825   0.259   0.828
+HETATM    6  P           6      -0.027   0.267   1.805
+HETATM    7  S           7      -0.967   1.857   0.826
+CONECT    1    2    3    4
+CONECT    2    5    1    3
+CONECT    3    1    2    7
+CONECT    4    1    6
+CONECT    5    2    6
+CONECT    6    7    5    4
+CONECT    7    3    6
+END

@@ -1,0 +1,22 @@
+REMARK exp. B-H bond length (terminal) = 1.19 A
+REMARK exp. B-H bond length (ring) = 1.32 A
+REMARK exp. HBH bond angle (terminal) = 121.8
+REMARK exp. HBH bond angle (ring) = 96.5
+REMARK exp. B-B distance = 1.77 A
+HETATM    1  B           1       0.527   1.838  -0.315
+HETATM    2  H           2       0.813   1.126   0.759
+HETATM    3  H           3      -0.541   1.148  -0.672
+HETATM    4  H           4       0.167   2.922   0.018
+HETATM    5  H           5       1.396   1.684  -1.114
+HETATM    6  B           6      -0.261   0.428   0.409
+HETATM    7  H           7       0.080  -0.667   0.094
+HETATM    8  H           8      -1.126   0.611   1.205
+CONECT    1    2    3    4    5
+CONECT    2    1    6
+CONECT    3    1    6
+CONECT    4    1
+CONECT    5    1
+CONECT    6    7    8    2    3
+CONECT    7    6
+CONECT    8    6
+END

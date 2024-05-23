@@ -1,0 +1,10 @@
+REMARK exp. N-O bond length = 1.14 A
+REMARK exp. N-Cl bond length = 1.97 A
+REMARK exp. ONCl bond angle = 113
+HETATM    1  N           1      -1.253   0.252   0.000
+HETATM    2  O           2      -1.106   1.383   0.000
+HETATM    3 CL           3       0.446  -0.745   0.000
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+END

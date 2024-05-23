@@ -1,0 +1,9 @@
+REMARK exp. H-Se bond length = 1.46 A
+REMARK exp. HSeH bond angle = 91
+HETATM    1 SE           1      -0.256   0.739   0.000
+HETATM    2  H           2       1.203   0.694   0.000
+HETATM    3  H           3      -0.236   2.199   0.000
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+END

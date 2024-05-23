@@ -1,0 +1,12 @@
+REMARK exp. Cl-F bond length (axial) = 1.698 A
+REMARK exp. Cl-F bond length (equitorial) = 1.598 A
+REMARK exp. FClF bond angle = 87.5
+HETATM    1 CL           1      -0.253  -0.089   0.154
+HETATM    2  F           2       1.128  -0.886   0.044
+HETATM    3  F           3      -0.087  -0.184   1.841
+HETATM    4  F           4      -0.290  -0.067  -1.543
+CONECT    1    2    3    4
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1
+END

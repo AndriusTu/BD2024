@@ -1,0 +1,13 @@
+REMARK exp. Se-O bond length = 1.61 A
+REMARK exp. Se-Cl bond length = 2.20 A
+REMARK exp. OSeCl bond angle = 106
+REMARK exp. ClSeCl bond angle = 97
+HETATM    1 CL           1      -0.422  -1.541  -0.553
+HETATM    2 SE           2       0.563   0.067   0.580
+HETATM    3 CL           3      -1.189   0.673   1.765
+HETATM    4  O           4       0.823   1.257  -0.473
+CONECT    1    2
+CONECT    2    1    3    4
+CONECT    3    2
+CONECT    4    2
+END
